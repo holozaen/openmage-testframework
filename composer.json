@@ -1,10 +1,11 @@
 {
-  "name": "digitalpianism/testframework",
+  "name": "holozaen/openmage-testframework",
+  "version": "1.0.0",
   "type": "magento-module",
   "license":"OSL-3.0",
   "description":"A simple test framework module to develop integration and unit tests on Magento 1",
   "require": {
-    "php": ">=5.3",
+    "php": ">=8.0",
     "magento-hackathon/magento-composer-installer": "*"
   },
   "authors":[
