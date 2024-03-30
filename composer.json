@@ -5,8 +5,7 @@
   "license":"OSL-3.0",
   "description":"A simple test framework module to develop integration and unit tests on Magento 1",
   "require": {
-    "php": ">=8.0",
-    "magento-hackathon/magento-composer-installer": "*"
+    "php": ">=8.0"
   },
   "authors":[
     {
